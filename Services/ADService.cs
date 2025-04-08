@@ -8,6 +8,7 @@ using System.Management;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 using System.Threading.Tasks;
+using ADUserGroupManagerWeb.Models;
 
 namespace ADUserGroupManagerWeb.Services
 {

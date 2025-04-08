@@ -3,19 +3,7 @@ using System.DirectoryServices;
 using System.Security.Claims;
 using System.Security.Principal;
 using System.Text.RegularExpressions;
-
-namespace ADUserGroupManagerWeb.Middleware
-{
-    public class WindowsAuthClaimsMiddleware
-    {
-    }
-}
 using Microsoft.AspNetCore.Http;
-using System.DirectoryServices;
-using System.DirectoryServices.AccountManagement;
-using System.Security.Claims;
-using System.Security.Principal;
-using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace ADUserGroupManagerWeb.Middleware
